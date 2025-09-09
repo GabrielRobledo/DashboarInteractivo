@@ -1,0 +1,101 @@
+Nro. Expediente,Extracto,Fecha inicio,Tipo Expediente,Sector Actual,Etiquetas,Mes Inicio,Estado - Importancia
+1,Voluptate sunt dolores.,2024-03-15,Denuncia,Finanzas,Revisión,3,Abierto - Media
+2,Consectetur quisquam blanditiis.,2023-09-28,Consulta,Operaciones,"Urgente, Normal, Prioritario",9,Cerrado - Baja
+3,Vitae accusantium totam quidem.,2024-01-01,Consulta,Administración,Prioritario,1,Cerrado - Baja
+4,Nobis itaque a veniam molestias aliquid.,2023-10-30,Consulta,Legales,"Revisión, Demorado, Urgente",10,Abierto - Media
+5,Facilis saepe sapiente.,2025-06-04,Permiso,Atención al Cliente,"Prioritario, Normal, Urgente",6,Cerrado - Baja
+6,Voluptas sed pariatur reiciendis minus.,2025-01-05,Reclamo,Finanzas,Demorado,1,Cerrado - Baja
+7,Impedit laborum quaerat nesciunt corrupti repellat.,2024-07-03,Permiso,Operaciones,"Urgente, Demorado, Normal",7,Abierto - Baja
+8,Quis cupiditate possimus atque.,2024-12-22,Reclamo,Operaciones,"Revisión, Demorado",12,Abierto - Baja
+9,Velit consectetur nostrum perspiciatis enim numquam.,2024-05-25,Permiso,Atención al Cliente,"Revisión, Demorado",5,Cerrado - Alta
+10,Veritatis eligendi temporibus expedita esse.,2025-04-01,Consulta,Operaciones,"Normal, Demorado, Revisión",4,Abierto - Media
+11,Nobis autem accusantium vel tempora.,2023-12-17,Reclamo,Atención al Cliente,"Normal, Urgente",12,Abierto - Baja
+12,Doloremque recusandae molestiae nihil aperiam praesentium.,2025-07-26,Reclamo,Finanzas,Revisión,7,Cerrado - Alta
+13,Ipsum fuga nihil totam odit.,2024-03-16,Permiso,Finanzas,Normal,3,Abierto - Baja
+14,Exercitationem veniam vitae.,2023-12-04,Consulta,Legales,"Revisión, Normal, Prioritario",12,Cerrado - Alta
+15,Mollitia magnam esse qui.,2024-08-13,Consulta,Finanzas,"Revisión, Prioritario, Normal",8,Abierto - Baja
+16,Totam doloribus laudantium laboriosam.,2024-03-10,Denuncia,Atención al Cliente,Normal,3,Abierto - Alta
+17,Iusto cupiditate vero distinctio.,2024-10-04,Permiso,Atención al Cliente,"Demorado, Normal, Revisión",10,Abierto - Baja
+18,Nisi rem maxime.,2023-10-14,Consulta,Legales,Prioritario,10,Abierto - Baja
+19,Asperiores at voluptatum.,2024-07-26,Consulta,Atención al Cliente,"Revisión, Demorado, Urgente",7,Cerrado - Baja
+20,Facere voluptatem nam architecto at.,2025-05-06,Denuncia,Finanzas,Urgente,5,Abierto - Media
+21,Aliquid tempora porro.,2025-09-02,Permiso,Legales,Demorado,9,Abierto - Alta
+22,Voluptatum eaque qui nostrum.,2023-11-28,Permiso,Atención al Cliente,"Normal, Revisión, Demorado",11,Cerrado - Alta
+23,Laboriosam harum impedit.,2024-11-27,Reclamo,Finanzas,"Normal, Demorado",11,Abierto - Alta
+24,Similique accusantium facere tempora sequi.,2025-01-13,Permiso,Operaciones,"Normal, Demorado",1,Cerrado - Baja
+25,Dolores natus iure atque illum.,2024-07-03,Consulta,Atención al Cliente,Urgente,7,Abierto - Media
+26,Corporis voluptates quaerat accusamus in cumque.,2024-10-11,Permiso,Operaciones,"Normal, Prioritario, Urgente",10,Abierto - Media
+27,Culpa repudiandae deleniti.,2025-06-05,Denuncia,Administración,"Demorado, Revisión",6,Abierto - Alta
+28,Error eveniet eos accusantium inventore explicabo.,2023-11-06,Denuncia,Operaciones,Demorado,11,Abierto - Alta
+29,Odit dolorem exercitationem ea rerum.,2024-01-21,Permiso,Atención al Cliente,"Normal, Revisión, Urgente",1,Cerrado - Alta
+30,Laboriosam accusantium quae quas dolor.,2025-06-08,Consulta,Finanzas,"Revisión, Prioritario, Normal",6,Abierto - Baja
+31,Odio iusto qui totam ab.,2023-10-04,Permiso,Atención al Cliente,"Prioritario, Urgente",10,Abierto - Media
+32,Quis deserunt commodi eum animi.,2024-10-11,Consulta,Operaciones,"Demorado, Normal",10,Cerrado - Alta
+33,Dicta doloribus labore quis ab.,2025-03-18,Permiso,Finanzas,"Normal, Urgente",3,Abierto - Alta
+34,Ullam rerum quidem aspernatur aut nulla.,2023-12-17,Permiso,Atención al Cliente,Prioritario,12,Abierto - Media
+35,Quibusdam possimus perferendis aliquid officia.,2025-08-31,Denuncia,Administración,Demorado,8,Abierto - Alta
+36,Error beatae at.,2024-08-16,Reclamo,Atención al Cliente,"Urgente, Prioritario",8,Abierto - Baja
+37,Rerum eum voluptas.,2024-01-30,Permiso,Administración,Normal,1,Cerrado - Baja
+38,Optio iste ducimus.,2025-07-28,Reclamo,Atención al Cliente,"Prioritario, Demorado, Normal",7,Cerrado - Alta
+39,Reiciendis iusto vel maxime maiores.,2024-04-09,Consulta,Atención al Cliente,"Prioritario, Urgente",4,Abierto - Alta
+40,Eligendi nisi temporibus modi.,2024-10-10,Reclamo,Legales,"Normal, Urgente",10,Abierto - Baja
+41,Blanditiis minima deleniti repellendus eaque natus.,2024-05-05,Permiso,Administración,Urgente,5,Abierto - Alta
+42,Aperiam culpa consectetur.,2024-10-30,Reclamo,Operaciones,"Revisión, Demorado",10,Cerrado - Baja
+43,Explicabo repudiandae neque vitae.,2025-04-23,Consulta,Administración,"Prioritario, Urgente",4,Cerrado - Baja
+44,Quam esse non asperiores.,2025-08-19,Reclamo,Operaciones,"Normal, Urgente",8,Abierto - Baja
+45,Debitis qui aliquam tenetur quae.,2024-04-01,Denuncia,Finanzas,Urgente,4,Abierto - Media
+46,Consequatur vitae soluta ipsam consectetur.,2024-07-24,Denuncia,Operaciones,Normal,7,Abierto - Baja
+47,Excepturi soluta illo quam beatae.,2024-11-18,Reclamo,Legales,Revisión,11,Cerrado - Alta
+48,Repellat repellendus illo expedita ducimus.,2024-06-06,Permiso,Administración,Urgente,6,Abierto - Baja
+49,Molestiae placeat deserunt.,2023-09-16,Permiso,Atención al Cliente,Urgente,9,Abierto - Media
+50,Maiores exercitationem temporibus minus voluptatum architecto.,2023-09-13,Permiso,Legales,Prioritario,9,Abierto - Media
+51,Dicta est explicabo.,2024-05-05,Reclamo,Legales,Demorado,5,Cerrado - Alta
+52,Sit porro aliquam.,2024-04-06,Reclamo,Finanzas,"Urgente, Normal",4,Cerrado - Baja
+53,Delectus quos aliquid exercitationem.,2024-05-23,Consulta,Atención al Cliente,"Prioritario, Demorado, Revisión",5,Abierto - Alta
+54,Fugiat repellat voluptatem dicta tempora dolor.,2024-11-03,Permiso,Legales,Demorado,11,Cerrado - Baja
+55,Quibusdam officia tempore laboriosam eveniet iusto.,2025-02-04,Denuncia,Atención al Cliente,"Normal, Revisión",2,Cerrado - Baja
+56,Ut quas quo.,2024-10-20,Denuncia,Atención al Cliente,"Prioritario, Demorado",10,Abierto - Media
+57,Recusandae fugiat cum laboriosam aut.,2024-03-03,Denuncia,Finanzas,"Demorado, Revisión",3,Cerrado - Baja
+58,Velit voluptates hic.,2025-09-08,Denuncia,Administración,Normal,9,Cerrado - Baja
+59,Esse eaque culpa beatae vitae.,2025-01-29,Reclamo,Finanzas,"Urgente, Normal",1,Cerrado - Alta
+60,Fugit doloremque optio rerum harum.,2025-07-24,Reclamo,Legales,Revisión,7,Abierto - Media
+61,Necessitatibus corporis ex.,2024-07-21,Permiso,Atención al Cliente,"Revisión, Prioritario",7,Abierto - Media
+62,Harum nihil neque repellendus ipsam deserunt.,2023-12-29,Consulta,Operaciones,Revisión,12,Abierto - Media
+63,Provident eos porro.,2024-02-02,Reclamo,Operaciones,"Demorado, Urgente",2,Abierto - Baja
+64,Aliquam mollitia possimus aut ab.,2023-12-06,Permiso,Administración,Normal,12,Cerrado - Baja
+65,Asperiores magnam optio itaque consequatur.,2025-06-13,Reclamo,Legales,Revisión,6,Abierto - Baja
+66,Doloribus a quaerat asperiores earum.,2025-08-23,Consulta,Legales,"Prioritario, Urgente, Revisión",8,Abierto - Baja
+67,Odit modi vitae qui.,2025-05-25,Consulta,Operaciones,"Urgente, Demorado, Normal",5,Abierto - Baja
+68,Minus libero occaecati perferendis maiores cupiditate itaque.,2024-01-06,Denuncia,Finanzas,Revisión,1,Abierto - Alta
+69,Optio a labore praesentium.,2023-12-12,Consulta,Finanzas,"Normal, Demorado, Prioritario",12,Abierto - Baja
+70,Fuga aspernatur officiis.,2024-06-24,Reclamo,Atención al Cliente,"Demorado, Prioritario",6,Abierto - Baja
+71,Similique ut eaque est a id.,2025-07-11,Denuncia,Administración,Revisión,7,Cerrado - Alta
+72,Est accusantium ullam perspiciatis.,2025-01-21,Permiso,Legales,"Prioritario, Revisión",1,Abierto - Media
+73,Recusandae minima quisquam officia vel.,2024-04-04,Reclamo,Legales,"Demorado, Prioritario",4,Cerrado - Baja
+74,Aliquam nobis placeat doloribus id optio.,2024-07-26,Denuncia,Administración,Normal,7,Abierto - Baja
+75,Iusto possimus dolor.,2025-09-07,Permiso,Finanzas,"Demorado, Revisión, Prioritario",9,Abierto - Media
+76,Modi laboriosam fugit nisi dolore.,2024-12-23,Consulta,Atención al Cliente,"Prioritario, Urgente",12,Abierto - Alta
+77,Aperiam sapiente modi in consectetur a.,2025-05-11,Permiso,Administración,"Revisión, Demorado, Normal",5,Abierto - Alta
+78,Alias eius nam odit.,2024-07-08,Consulta,Legales,Normal,7,Abierto - Alta
+79,Iste non voluptatum est.,2024-10-15,Reclamo,Operaciones,Normal,10,Abierto - Baja
+80,Distinctio aliquid est incidunt atque voluptate.,2024-01-11,Reclamo,Operaciones,Normal,1,Cerrado - Baja
+81,Quibusdam qui modi accusantium.,2025-06-11,Reclamo,Legales,Normal,6,Cerrado - Baja
+82,Voluptatum quaerat magni autem.,2024-11-12,Permiso,Legales,Revisión,11,Abierto - Baja
+83,Tenetur at veritatis.,2025-08-08,Consulta,Operaciones,"Normal, Demorado",8,Cerrado - Alta
+84,Harum facere minus cum.,2024-05-25,Reclamo,Administración,"Urgente, Revisión, Prioritario",5,Cerrado - Alta
+85,Esse fugiat tenetur at quasi.,2025-07-25,Consulta,Operaciones,"Prioritario, Revisión",7,Abierto - Baja
+86,Tempore aut delectus doloremque asperiores.,2024-07-15,Reclamo,Atención al Cliente,"Revisión, Demorado, Normal",7,Cerrado - Baja
+87,At fugiat consectetur.,2025-01-12,Denuncia,Atención al Cliente,"Revisión, Urgente, Demorado",1,Abierto - Media
+88,Placeat modi ipsum sed similique.,2025-01-23,Consulta,Operaciones,"Demorado, Prioritario, Normal",1,Cerrado - Baja
+89,Eius laudantium explicabo quae maxime.,2025-04-01,Permiso,Operaciones,"Normal, Prioritario",4,Abierto - Alta
+90,Libero est eligendi sed aliquid.,2025-07-21,Consulta,Legales,"Revisión, Urgente, Normal",7,Cerrado - Baja
+91,Totam assumenda voluptatum neque sunt.,2024-02-03,Permiso,Legales,"Urgente, Normal, Revisión",2,Abierto - Alta
+92,Dolorum perspiciatis eius corrupti esse.,2025-02-12,Permiso,Legales,"Prioritario, Normal",2,Abierto - Alta
+93,Numquam enim eius impedit.,2024-04-26,Permiso,Finanzas,"Prioritario, Revisión",4,Cerrado - Baja
+94,Optio maxime aspernatur minima quia.,2024-05-19,Permiso,Finanzas,"Prioritario, Revisión, Urgente",5,Abierto - Baja
+95,Suscipit voluptatem ea labore expedita eveniet labore.,2024-04-25,Denuncia,Atención al Cliente,"Normal, Prioritario, Revisión",4,Abierto - Alta
+96,Dignissimos deleniti cupiditate fuga earum officiis.,2024-03-07,Consulta,Atención al Cliente,"Revisión, Urgente, Prioritario",3,Abierto - Media
+97,Mollitia alias consequatur necessitatibus incidunt eaque.,2025-01-24,Permiso,Operaciones,"Urgente, Demorado",1,Cerrado - Baja
+98,Molestias officia doloribus corrupti.,2023-09-30,Consulta,Atención al Cliente,Revisión,9,Cerrado - Baja
+99,Provident sint corrupti nesciunt commodi.,2023-12-01,Consulta,Finanzas,Normal,12,Cerrado - Baja
+100,Sit fugit illo error.,2025-08-06,Consulta,Legales,Revisión,8,Abierto - Media
